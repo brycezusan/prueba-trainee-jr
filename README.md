@@ -1,8 +1,11 @@
-# React + Vite
+# MOVIES JR-TRAINE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# LEVANTAR PRUEBA
+- npm instal
+- npm run dev
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# TEMAS
+- hooks : useState, useEffect , useId , useMemo
+- css
+- add movie , removeMovie , editMovie , searchMovie
+- react + js + vite
